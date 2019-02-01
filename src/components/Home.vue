@@ -6,7 +6,7 @@
       <p class="chapo">Chaque année, plus de cent femmes sont tuées par leur conjoint, leur mari ou leur ex. Derrière une statistique qui se répète froidement chaque année, il y a des prénoms, des histoires, des vies, des victimes collatérales.  Cette litanie funéraire égrène, mois après mois, les meurtres conjugaux depuis le 1er&nbsp;janvier&nbsp;2017.</p>
       <div class="start libe-black is-uppercase ligthBlue is-hidden-tablet" @click="show = false">VOIR</div>
       <div><a href="#" class="more is-uppercase" @click.prevent="showMore()">pour en savoir plus</a></div>
-      <div class="author">PAR TITIOU LECOQ<br>PRODUCTION SIX PLUS</div>
+      <div class="author">PAR VIRGINIE BALLET ET TITIOU LECOQ<br>PRODUCTION SIX PLUS</div>
       <div class="sixplus">
         <a href="http://www.liberation.fr/data-nouveaux-formats-six-plus,100538">
           <img src="static/LOGO_SIXPLUS_BLANC_ROUGE.svg" alt="">
