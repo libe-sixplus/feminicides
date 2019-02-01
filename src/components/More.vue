@@ -14,19 +14,19 @@
         <h2 class="libe-semicondensed has-color-ligthBlue is-size-5 is-uppercase">À LIRE AUSSI :</h2>
         <ul>
           <li class="libe-black">
-            <a href="http://www.liberation.fr/apps/2017/06/220-femmes-tuees-conjoints-ignorees-societe/" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">ENQUÊTE</span>Notre long format : Tuées par leur conjoint, ignorées par la société, enquête sur un meurtre de masse</a>
+            <a href="https://www.liberation.fr/apps/2017/06/220-femmes-tuees-conjoints-ignorees-societe/" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">ENQUÊTE</span>Notre long format : Tuées par leur conjoint, ignorées par la société, enquête sur un meurtre de masse</a>
           </li>
           <li class="libe-black">
-            <a href="http://www.liberation.fr/france/2017/06/30/elle-s-appelait-aurelie-elle-avait-34-ans-il-lui-a-tire-dessus-au-fusil-de-chasse-une-annee-de-meurt_1580445" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">#DÉJÀMORTES</span>2017, un an de meurtres conjugaux</a>
+            <a href="https://www.liberation.fr/france/2017/06/30/elle-s-appelait-aurelie-elle-avait-34-ans-il-lui-a-tire-dessus-au-fusil-de-chasse-une-annee-de-meurt_1580445" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">#DÉJÀMORTES</span>2017, un an de meurtres conjugaux</a>
           </li>
           <li class="libe-black">
-            <a href="http://www.liberation.fr/france/2018/01/08/feminicides-conjugaux-au-dela-du-fait-divers-un-fait-social_1620279" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">ANALYSE</span>Le bilan de 2017 : Au-delà d'un fait divers, un fait social</a>
+            <a href="https://www.liberation.fr/france/2018/01/08/feminicides-conjugaux-au-dela-du-fait-divers-un-fait-social_1620279" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">ANALYSE</span>Le bilan de 2017 : Au-delà d'un fait divers, un fait social</a>
           </li>
           <li class="libe-black">
-            <a href="http://www.liberation.fr/france/2018/01/08/feminicides-conjugaux-encore-trop-de-violences-et-trop-peu-de-moyens_1620635" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">VIOLENCES</span>Notre décryptage : pourquoi le chiffre des victimes ne baisse pas</a>
+            <a href="https://www.liberation.fr/france/2018/01/08/feminicides-conjugaux-encore-trop-de-violences-et-trop-peu-de-moyens_1620635" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">VIOLENCES</span>Notre décryptage : pourquoi le chiffre des victimes ne baisse pas</a>
           </li>
           <li class="libe-black">
-            <a href="http://www.liberation.fr/debats/2017/11/23/feminicide-pas-francais_1612057" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">RÉCIT</span>Faut-il utiliser le mot «féminicide» ?</a>
+            <a href="https://www.liberation.fr/debats/2017/11/23/feminicide-pas-francais_1612057" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">RÉCIT</span>Faut-il utiliser le mot «féminicide» ?</a>
           </li>
         </ul>
       </div>

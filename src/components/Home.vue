@@ -8,7 +8,7 @@
       <div><a href="#" class="more is-uppercase" @click.prevent="showMore()">pour en savoir plus</a></div>
       <div class="author">PAR VIRGINIE BALLET ET TITIOU LECOQ<br>PRODUCTION SIX PLUS</div>
       <div class="sixplus">
-        <a href="http://www.liberation.fr/data-nouveaux-formats-six-plus,100538">
+        <a href="https://www.liberation.fr/data-nouveaux-formats-six-plus,100538">
           <img src="static/LOGO_SIXPLUS_BLANC_ROUGE.svg" alt="">
         </a>
       </div>
@@ -53,7 +53,7 @@ export default {
   methods: {
     shareFacebook () {
       var url = encodeURIComponent(window.location.origin + window.location.pathname)
-      var link = 'http://www.facebook.com/sharer/sharer.php?u=' + url
+      var link = 'https://www.facebook.com/sharer/sharer.php?u=' + url
       window.open(link, '', 'width=575,height=400,menubar=no,toolbar=no')
     },
     shareTwitter () {

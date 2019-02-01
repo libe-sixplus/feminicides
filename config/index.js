@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: 'http://www.liberation.fr/apps/2018/02/meurtres-conjugaux-derriere-les-chiffres/',
+    assetsPublicPath: 'https://www.liberation.fr/apps/2018/02/meurtres-conjugaux-derriere-les-chiffres/',
 
     /**
      * Source Maps
