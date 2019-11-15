@@ -14,19 +14,58 @@
         <h2 class="libe-semicondensed has-color-ligthBlue is-size-5 is-uppercase">À LIRE AUSSI :</h2>
         <ul>
           <li class="libe-black">
-            <a href="https://www.liberation.fr/apps/2017/06/220-femmes-tuees-conjoints-ignorees-societe/" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">ENQUÊTE</span>Notre long format : Tuées par leur conjoint, ignorées par la société, enquête sur un meurtre de masse</a>
+            <a href="https://www.liberation.fr/france/2019/11/01/feminicides-conjugaux-de-l-importance-de-compter-et-de-raconter_1760197" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">BILLET</span>
+              Féminicides conjugaux : de l'importance de compter… et de raconter
+            </a>
           </li>
           <li class="libe-black">
-            <a href="https://www.liberation.fr/france/2017/06/30/elle-s-appelait-aurelie-elle-avait-34-ans-il-lui-a-tire-dessus-au-fusil-de-chasse-une-annee-de-meurt_1580445" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">#DÉJÀMORTES</span>2017, un an de meurtres conjugaux</a>
+            <a href="https://www.liberation.fr/france/2019/09/02/lutte-contre-les-feminicides-l-obligation-de-resultats_1748870" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">RÉCIT</span>
+              Lutte contre les féminicides : l’obligation de résultats
+            </a>
           </li>
           <li class="libe-black">
-            <a href="https://www.liberation.fr/france/2018/01/08/feminicides-conjugaux-au-dela-du-fait-divers-un-fait-social_1620279" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">ANALYSE</span>Le bilan de 2017 : Au-delà d'un fait divers, un fait social</a>
+            <a href="https://www.liberation.fr/france/2019/02/01/feminicide-tout-mais-pas-lui-donner-un-centime_1706947" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">TÉMOIGNAGE</span>
+              «Tout, mais pas lui donner un centime»
+            </a>
           </li>
           <li class="libe-black">
-            <a href="https://www.liberation.fr/france/2018/01/08/feminicides-conjugaux-encore-trop-de-violences-et-trop-peu-de-moyens_1620635" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">VIOLENCES</span>Notre décryptage : pourquoi le chiffre des victimes ne baisse pas</a>
+            <a href="https://www.liberation.fr/france/2019/07/03/feminicide-comme-s-il-avait-voulu-la-faire-souffrir-jusqu-au-bout_1737842" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">TÉMOIGNAGE</span>
+              «Comme s’il avait voulu la faire souffrir jusqu’au bout»
+            </a>
           </li>
           <li class="libe-black">
-            <a href="https://www.liberation.fr/debats/2017/11/23/feminicide-pas-francais_1612057" class="has-color-darkBlue"><span class="has-color-libePink libe-semicondensed">RÉCIT</span>Faut-il utiliser le mot «féminicide» ?</a>
+            <a href="https://www.liberation.fr/france/2019/07/03/feminicide-aissatou-etait-une-pipelette-mais-sur-ce-sujet-elle-etait-fuyante_1737855" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">TÉMOIGNAGE</span>
+              «Aïssatou était une pipelette, mais sur ce sujet, elle était fuyante»
+            </a>
+          </li>
+          <li class="libe-black">
+            <a href="https://www.liberation.fr/apps/2017/06/220-femmes-tuees-conjoints-ignorees-societe/" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">ENQUÊTE</span>
+              Notre plein écran : Tuées par leur conjoint, ignorées par la société, enquête sur un meurtre de masse
+            </a>
+          </li>
+          <li class="libe-black">
+            <a href="https://www.liberation.fr/france/2017/06/30/elle-s-appelait-aurelie-elle-avait-34-ans-il-lui-a-tire-dessus-au-fusil-de-chasse-une-annee-de-meurt_1580445" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">#DÉJÀMORTES</span>
+              2017, un an de meurtres conjugaux
+            </a>
+          </li>
+          <li class="libe-black">
+            <a href="https://www.liberation.fr/france/2018/01/08/feminicides-conjugaux-encore-trop-de-violences-et-trop-peu-de-moyens_1620635" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">VIOLENCES</span>
+              Notre décryptage : pourquoi le chiffre des victimes ne baisse pas
+            </a>
+          </li>
+          <li class="libe-black">
+            <a href="https://www.liberation.fr/debats/2017/11/23/feminicide-pas-francais_1612057" class="has-color-darkBlue">
+              <span class="has-color-libePink libe-semicondensed">RÉCIT</span>
+              Faut-il utiliser le mot «féminicide» ?
+            </a>
           </li>
         </ul>
       </div>
