@@ -5,6 +5,10 @@ import uniqBy from 'lodash/uniqBy'
 
 Vue.use(Vuex)
 
+const spreadsheet = window.location.host.match('liberation.fr')
+  ? 'https://proxydata.liberation.fr/proxy/spreadsheets/1LPl70M2dQSg1TR0bdMu2FUF-GQf2FeZdY8CkCpOsDJ0?out=csv'
+  : 'http://localhost:3004/proxy/spreadsheets/1LPl70M2dQSg1TR0bdMu2FUF-GQf2FeZdY8CkCpOsDJ0?out=csv'
+
 var monthFr = ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre']
 var now = new Date()
 var currentYear = now.getFullYear().toString()
@@ -106,8 +110,17 @@ export const store = new Vuex.Store({
   },
   actions: {
     loadData (context) {
-      request('https://docs.google.com/spreadsheets/d/e/2PACX-1vSH8HyNxSW9sbmOKNNyfDLsoKM64jLKI50JHdwRZsBtqLjCtDXGWnNj84-lMbH_RHCDyHB8Kb15II_I/pub?output=csv').get(d => {
-        var data = csvParse(d.response, d => {
+      window.fetch(spreadsheet)
+        .then(res => res.text())
+        .then(res => doStuff(res))
+        .catch(err => console.log(err))
+      function doStuff (input) {
+        var data = csvParse(input, d => {
+          const undefKeys = Object.keys(d).map(key => d[key]).filter(val => val === undefined)
+          if (undefKeys.length) {
+            console.log(d)
+            return { ok: false }
+          }
           var intro = [d.texte.split('.')[0], d.texte.split('.')[1]].join('.') + '.'
           var text = d.texte.replace(intro + ' ', '')
           return {
@@ -126,7 +139,7 @@ export const store = new Vuex.Store({
         context.commit('putAll', data.reverse())
         context.commit('putAllDate')
         context.commit('putData')
-      })
+      }
     },
     changeDate (context, id) {
       context.commit('putDate', id)
